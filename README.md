@@ -1,4 +1,4 @@
-✈️ TTravels Booking Application — AI Travel Chatbot
+✈️ Travels Booking Application — AI Travel Chatbot
 An AI-powered travel assistant integrated into the Kapoor Airlines travel website.
 🚧 Development Status: Under Maintenance
 The chatbot is currently being improved and may be temporarily unavailable on the live website. I have integrated an LLM and started building tool-calling capabilities, and I am actively working on the next features.
